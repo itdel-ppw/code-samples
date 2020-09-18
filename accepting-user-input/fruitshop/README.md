@@ -14,4 +14,4 @@ For testing we use the PHP built-in web server, execute the following command in
 ```
 php -S localhost:80
 ```
-Open your browser and navigate to ```localhost```
+Open your browser and navigate to [```localhost```](http://localhost).
